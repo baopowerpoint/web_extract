@@ -1,0 +1,67 @@
+[
+    {
+        "domain": "havamath.vn",
+        "expirationDate": 1747242000.161974,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "p_uv_id",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "06d5aedde5c642fc5f7ac4b28e88a3bd"
+    },
+    {
+        "domain": "havamath.vn",
+        "expirationDate": 1768838879.914816,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "havamath_session",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6Im9OS0hTak1jcG4vaDZHV2RxQnl3dlE9PSIsInZhbHVlIjoiaFJoNHBsN0lzNS8wbzliRzl3eUEzY3VtQ1BlTzA1VHFqS3NvMzcvNWNCYmJLRGVyMERVODZKWjlndDZUcGdWWE5hcmV2YnJmOW5OU3YzMW1vVHpuVG9ORHNNU2FNeHpmOWRYMnBhZ1ZBc1ZaWGVpT3Y0alQ0Slo4azNNNGl3d2IiLCJtYWMiOiJhZjI2YTNkYjkwZTA1NzU2N2NhNjhmNDY2NjNmYzEwZGZhMmRlNmU3N2ZjMjRlZTEzZjU0ZWM1MDBmOTE2YzVjIn0%3D"
+    },
+    {
+        "domain": ".havamath.vn",
+        "expirationDate": 1781798877.968452,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_NN8QGKDVES",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS2.1.s1747237029$o42$g1$t1747238877$j0$l0$h0"
+    },
+    {
+        "domain": ".havamath.vn",
+        "expirationDate": 1781798877.968839,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.240171683.1744283548"
+    },
+    {
+        "domain": "havamath.vn",
+        "expirationDate": 1768838879.914698,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IjR5cTFWeUpaM0xuRGYwZlZOR3RTQmc9PSIsInZhbHVlIjoiU3VoSEJiZjA2NjRPYm4wZDdHMnhQVVRRM1pET2Vsenc5K2VIUXZiKzBQKzhiUW91NDZlekRqN21uWUthWDFmUCsvMmJKUkxmN0puc2xXTStDbVlIamc0Y0VxQno5a1R5NVAwMm52TS9odlR0bGJZRmFKMWZ2UTQ2R1dqamFTcXUiLCJtYWMiOiJjYmUxZDFjZGYwNGQyM2JiM2ZiYzVlNjNjMjlkMDExZmFhNjZlNmY3OGI3ODlhYzM4YjU2OWM2ZTIyNjJhMjk1In0%3D"
+    }
+]
