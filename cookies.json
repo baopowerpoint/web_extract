@@ -1,7 +1,7 @@
 [
     {
         "domain": "havamath.vn",
-        "expirationDate": 1747242000.161974,
+        "expirationDate": 1747933200.386506,
         "hostOnly": true,
         "httpOnly": true,
         "name": "p_uv_id",
@@ -10,11 +10,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "06d5aedde5c642fc5f7ac4b28e88a3bd"
+        "value": "60900aee668b1e77f1702883491b5213"
     },
     {
         "domain": "havamath.vn",
-        "expirationDate": 1768838879.914816,
+        "expirationDate": 1769447465.869946,
         "hostOnly": true,
         "httpOnly": true,
         "name": "havamath_session",
@@ -23,11 +23,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6Im9OS0hTak1jcG4vaDZHV2RxQnl3dlE9PSIsInZhbHVlIjoiaFJoNHBsN0lzNS8wbzliRzl3eUEzY3VtQ1BlTzA1VHFqS3NvMzcvNWNCYmJLRGVyMERVODZKWjlndDZUcGdWWE5hcmV2YnJmOW5OU3YzMW1vVHpuVG9ORHNNU2FNeHpmOWRYMnBhZ1ZBc1ZaWGVpT3Y0alQ0Slo4azNNNGl3d2IiLCJtYWMiOiJhZjI2YTNkYjkwZTA1NzU2N2NhNjhmNDY2NjNmYzEwZGZhMmRlNmU3N2ZjMjRlZTEzZjU0ZWM1MDBmOTE2YzVjIn0%3D"
+        "value": "eyJpdiI6IlZsSHVFNGkvc1gzL0ZNVWM1OHNjTWc9PSIsInZhbHVlIjoicC9JbzdkamF2ZzMxc1ZjeTgrcWQwTDFnYk0xdk1QeTdlU28zNURJTXdzVHZULzRKdlgwNnhWQUphTHM2Q3ZKRlhuTi94MFRkMVVFMVpxOENrK29wbGtLM2x1MERxNjRheUNaYU5aeHA5WDh4Q3lQc3E4ZFlkSzdVMFVLRDdwT1IiLCJtYWMiOiJlZmQ4MTBhZGY4MWYwNDM1NjcxZDI2ZjFkYmY0MTc0YjA4OTRiMjI0YmVmMGU3YjQ0N2NmMWZkZmQxY2UxM2E4In0%3D"
     },
     {
         "domain": ".havamath.vn",
-        "expirationDate": 1781798877.968452,
+        "expirationDate": 1782407461.87367,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga_NN8QGKDVES",
@@ -36,11 +36,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GS2.1.s1747237029$o42$g1$t1747238877$j0$l0$h0"
+        "value": "GS2.1.s1747847323$o6$g1$t1747847461$j0$l0$h0"
     },
     {
         "domain": ".havamath.vn",
-        "expirationDate": 1781798877.968839,
+        "expirationDate": 1782407461.86882,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -49,11 +49,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.1.240171683.1744283548"
+        "value": "GA1.1.921155571.1747804544"
     },
     {
         "domain": "havamath.vn",
-        "expirationDate": 1768838879.914698,
+        "expirationDate": 1769447465.869732,
         "hostOnly": true,
         "httpOnly": false,
         "name": "XSRF-TOKEN",
@@ -62,6 +62,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6IjR5cTFWeUpaM0xuRGYwZlZOR3RTQmc9PSIsInZhbHVlIjoiU3VoSEJiZjA2NjRPYm4wZDdHMnhQVVRRM1pET2Vsenc5K2VIUXZiKzBQKzhiUW91NDZlekRqN21uWUthWDFmUCsvMmJKUkxmN0puc2xXTStDbVlIamc0Y0VxQno5a1R5NVAwMm52TS9odlR0bGJZRmFKMWZ2UTQ2R1dqamFTcXUiLCJtYWMiOiJjYmUxZDFjZGYwNGQyM2JiM2ZiYzVlNjNjMjlkMDExZmFhNjZlNmY3OGI3ODlhYzM4YjU2OWM2ZTIyNjJhMjk1In0%3D"
+        "value": "eyJpdiI6Ik9YbncxSXdCUWtscnBUZG5aZHB1UGc9PSIsInZhbHVlIjoiNXJ4MGJSU2NHNUE0WnF0Vk0ySGNKNmZ6dDVpbzdNSHdJVlNLcjg5c29DeDQ3SkJDcWlsTWRKRTRMdjBOeEtPNG9IbUNjcjVpZEhqRTBBcTZWTjVBblpDTE5heGI4L0Q0cWlzenYwdlVja3UvclE0VGdsZHlIWlZLRnlMWnEyOUwiLCJtYWMiOiIzZGExZWJlOWM4M2Q5Yzg0OTZkYWI0MWY0N2Q2MzczOTY2YzM3MWZiODJhNzAxZWI1NWY5OGFjYzMzZmI1NDkyIn0%3D"
     }
 ]

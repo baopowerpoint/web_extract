@@ -1,238 +1,148 @@
 {
   "lectures": [
     {
-      "title": "Ôn tập phép cộng trong phạm vi 1000",
-      "videoUrl": "https://youtu.be/Tx7Q-FNjyYM",
+      "title": "So sánh, xếp thứ tự các số tự nhiên",
+      "videoUrl": "https://youtu.be/6MIQlvqDnLU",
       "chapter": "Kết nối"
     },
     {
-      "title": "Học thử",
-      "videoUrl": "https://youtu.be/Tx7Q-FNjyYM",
+      "title": "Cấu tạo của số tự nhiên",
+      "videoUrl": "https://youtu.be/zEoW8Ze3mlY",
       "chapter": "Kết nối"
     },
     {
-      "title": "Ôn tập các số đến 1000",
-      "videoUrl": "https://youtu.be/uekF3HkL0lo",
+      "title": "Phép trừ với các số tự nhiên",
+      "videoUrl": "https://youtu.be/Y_EuOE-nE0I",
       "chapter": "Kết nối"
     },
     {
-      "title": "Ôn tập phép trừ trong phạm vi 1000",
-      "videoUrl": "https://youtu.be/yVl_6W1_v0Y",
+      "title": "Phép cộng với các số tự nhiên",
+      "videoUrl": "https://youtu.be/wqjf_66Aihk",
       "chapter": "Kết nối"
     },
     {
-      "title": "Cộng nhẩm, trừ nhẩm",
-      "videoUrl": "https://youtu.be/URo7OZMh3kk",
+      "title": "Bảng nhân\n6\n-\nbảng chia 6",
+      "videoUrl": "https://youtu.be/XmnG9Y11o2A",
       "chapter": "Kết nối"
     },
     {
-      "title": "Tìm số hạng",
-      "videoUrl": "https://youtu.be/n3n4yXTO2CM",
+      "title": "Bảng nhân\n7\n-\nbảng chia 7",
+      "videoUrl": "https://youtu.be/reR27yM0NH8",
       "chapter": "Kết nối"
     },
     {
-      "title": "Tìm số bị trừ, số trừ",
-      "videoUrl": "https://youtu.be/xX0gEmmnfek",
+      "title": "Bảng nhân\n8\n-\nbảng chia 8",
+      "videoUrl": "https://youtu.be/03efwT8MzH4",
       "chapter": "Kết nối"
     },
     {
-      "title": "Ôn tập phép nhân",
-      "videoUrl": "https://youtu.be/naFcI2ANyQY",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Ôn tập phép chia",
-      "videoUrl": "https://youtu.be/54twBHC-wn0",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Tìm số bị chia, số chia",
-      "videoUrl": "https://youtu.be/ZLgLrazJycU",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Mi-li-mét",
-      "videoUrl": "https://youtu.be/AJQYz3nUCs4",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Em làm được những gì?",
-      "videoUrl": "https://youtu.be/CD0-Oo9AsAE",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Khối lập phương, khối hộp chữ nhật",
-      "videoUrl": "https://youtu.be/s9ith3QKHnY",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Làm quen với chữ số La Mã",
-      "videoUrl": "https://youtu.be/Pb6zcGC0CQk",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Làm tròn số",
-      "videoUrl": "https://youtu.be/6MEk0JAwIcQ",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Tính giá trị của biểu thức",
-      "videoUrl": "https://youtu.be/8J-o9BQUWy8",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Làm quen với biểu thức",
-      "videoUrl": "https://youtu.be/ZrfJcQ8oT9I",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bài toán giải bằng hai bước tính",
-      "videoUrl": "https://youtu.be/HVqkkj8Cyn4",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Xem đồng hồ",
-      "videoUrl": "https://youtu.be/syU_fhcDd5U",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Hình tam giác, hình tứ giác",
-      "videoUrl": "https://youtu.be/aKBtsIiAUVs",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Xếp hình",
-      "videoUrl": "https://youtu.be/QRk4Nj2f9q4",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Tính giá trị của biểu thức (tiếp theo) - Phần 1",
-      "videoUrl": "https://youtu.be/pZXSDPTNJGU",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Tính giá trị của biểu thức (tiếp theo) - Phần 2",
-      "videoUrl": "https://youtu.be/FXfGPDpnudI",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 3, bảng chia 3",
-      "videoUrl": "https://youtu.be/JCP66vyZBIk",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 4, bảng chia 4",
-      "videoUrl": "https://youtu.be/KVIxtklk6JY",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Một phần mấy",
-      "videoUrl": "https://youtu.be/xNGtd1iH1UI",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Nhân với số có một chữ số trong phạm vi 1000",
-      "videoUrl": "https://youtu.be/I8y6zOHboEQ",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Nhân với số có một chữ số trong phạm vi 1000 (tiếp theo)",
-      "videoUrl": "https://youtu.be/JwuQ70ajbpU",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Nhân nhẩm, chia nhẩm",
-      "videoUrl": "https://youtu.be/bwIXub0UFwM",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Phép chia hết và phép chia có dư",
-      "videoUrl": "https://youtu.be/tOBXodVwD_8",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 6, bảng chia 6",
-      "videoUrl": "https://youtu.be/7t5rgIRAoHo",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Em làm được những gì?",
-      "videoUrl": "https://youtu.be/1idOXjOeAHs",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Chia số có hai chữ số cho số có một chữ số",
-      "videoUrl": "https://youtu.be/-pCJVvQva0s",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Gấp một số lên một số lần",
-      "videoUrl": "https://youtu.be/M6md8mklzYI",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 7, bảng chia 7",
-      "videoUrl": "https://youtu.be/zTSG3RQ-i70",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 8, bảng chia 8",
-      "videoUrl": "https://youtu.be/htle7Ix_fgU",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Giảm một số đi một số lần",
-      "videoUrl": "https://youtu.be/A0ykhh3BHC0",
-      "chapter": "Kết nối"
-    },
-    {
-      "title": "Bảng nhân 9, bảng chia 9",
+      "title": "Bảng nhân\n9\n-\nbảng chia 9",
       "videoUrl": "https://youtu.be/xE1rLkj0zlo",
       "chapter": "Kết nối"
     },
     {
-      "title": "Em làm được những gì?",
-      "videoUrl": "https://youtu.be/Lt63D7VQ5s4",
+      "title": "Nhân một số có hai, ba chữ số với số có một chữ số",
+      "videoUrl": "https://youtu.be/bNWDTKUQeY4",
       "chapter": "Kết nối"
     },
     {
-      "title": "Em làm được những gì?",
-      "videoUrl": "https://youtu.be/d15b11Wx7WE",
+      "title": "Phép chia hết - Phép chia có dư",
+      "videoUrl": "https://youtu.be/Z_5RJJt4LDQ",
       "chapter": "Kết nối"
     },
     {
-      "title": "Xem đồng hồ",
-      "videoUrl": "https://youtu.be/BM05YNpdgG8",
+      "title": "Chia số có hai, ba chữ số cho số có một chữ số",
+      "videoUrl": "https://youtu.be/QtvePx_g6Wg",
       "chapter": "Kết nối"
     },
     {
-      "title": "So sánh số lớn gấp mấy lần số bé",
-      "videoUrl": "https://youtu.be/TdbuoI7uX3Q",
+      "title": "Bài toán liên quan đến rút về đơn vị",
+      "videoUrl": "https://youtu.be/oyBme2KjSEs",
       "chapter": "Kết nối"
     },
     {
-      "title": "Điểm ở giữa, trung điểm của đoạn thẳng",
-      "videoUrl": "https://youtu.be/mPjS4c1USig",
+      "title": "Giải bài toán có lời văn (tiếp)",
+      "videoUrl": "https://youtu.be/wxkov7_Hs5Q",
       "chapter": "Kết nối"
     },
     {
-      "title": "Chia số có ba chữ số với số có một chữ số",
-      "videoUrl": "https://youtu.be/HCMFha0Yfwc",
+      "title": "Giải bài toán có lời văn",
+      "videoUrl": "https://youtu.be/k8j43gxQ_Fk",
       "chapter": "Kết nối"
     },
     {
-      "title": "Chia số có ba chữ số với số có một chữ số P2",
-      "videoUrl": "https://youtu.be/bcJ6tLcxupo",
+      "title": "Đo độ dài",
+      "videoUrl": "https://youtu.be/l-KRrKcoTpU",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Điểm ở giữa. Trung điểm của đoạn thẳng",
+      "videoUrl": "https://youtu.be/UrgIBx0lw1c",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Góc",
+      "videoUrl": "https://youtu.be/3mdO6pzVJx4",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Biểu thức",
+      "videoUrl": "https://youtu.be/zVFP8TDNRnM",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Tính nhanh",
+      "videoUrl": "https://youtu.be/XA9wKPmP-wE",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Số La Mã",
+      "videoUrl": "https://youtu.be/n5cGKbn5iH4",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Thống kê số liệu",
+      "videoUrl": "https://youtu.be/o-I5AyBA2P4",
       "chapter": "Kết nối"
     },
     {
       "title": "Hình tròn",
-      "videoUrl": "https://youtu.be/bn5l5mkgshg",
+      "videoUrl": "https://youtu.be/Ubh4ept1Ztw",
       "chapter": "Kết nối"
     },
     {
-      "title": "Nhiệt độ. Đo nhiệt độ",
-      "videoUrl": "https://youtu.be/-EFyI2vLSek",
+      "title": "Hình vuông. Hình chữ nhật",
+      "videoUrl": "https://youtu.be/ePEOWE8bnOU",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Diện tích",
+      "videoUrl": "https://youtu.be/8P4PwdVH-ak",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Thời gian (Tiếp)",
+      "videoUrl": "https://youtu.be/orGe0Zc7roA",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Đơn vị đo khối lượng",
+      "videoUrl": "https://youtu.be/6i4M42U6FBk",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Thời gian",
+      "videoUrl": "https://youtu.be/izXfIhKkisU",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Diện tích hình vuông. Diện tích hình chữ nhật",
+      "videoUrl": "https://youtu.be/xa4lR7NQAT0",
+      "chapter": "Kết nối"
+    },
+    {
+      "title": "Tiền Việt Nam",
+      "videoUrl": "https://youtu.be/R6xoY1OhnZo",
       "chapter": "Kết nối"
     }
   ]
